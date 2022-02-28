@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Kontaktdetails",
+        "type": "FormStep",
+        "elements": [
+            {
+                "type": "text",
+                "placeholder": [
+                    "Vorname",
+                    "Name"
+                ],
+                "label": ""
+            },
+            {
+                "type": "email",
+                "placeholder": [
+                    "E-Mail"
+                ],
+                "label": ""
+            },
+            {
+                "type": "text",
+                "placeholder": [
+                    "Telefon"
+                ],
+                "label": ""
+            }
+        ]
+    },
+    {
+        "title": "Infos zum Geschäft",
+        "type": "FormStep",
+        "elements": [
+            {
+                "type": "text",
+                "placeholder": [
+                    "Name des Geschäfts"
+                ],
+                "label": ""
+            },
+            {
+                "type": "text",
+                "placeholder": [
+                    "Adresse des Geschäfts"
+                ],
+                "label": ""
+            },
+            {
+                "type": "email",
+                "placeholder": [
+                    "E-Mail des Geschäfts"
+                ],
+                "label": ""
+            }
+        ]
+    },
+    {
+        "title": "Eingaben überprüfen",
+        "type": "ReviewStep"
+    }
+]
